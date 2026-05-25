@@ -91,8 +91,10 @@ Third project. Even a learning project counts — be specific about what you bui
 
 <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
 &nbsp;
-[System Design](https://img.shields.io/badge/System%20Design-111111?style=flat-square&logoColor=white)
-[Scalable Architecture](https://img.shields.io/badge/Scalable%20Architecture-111111?style=flat-square&logoColor=white)
+<br>
+![System Design](https://img.shields.io/badge/System%20Design-111111?style=flat-square&logoColor=white)
+![Scalable Architecture](https://img.shields.io/badge/Scalable%20Architecture-111111?style=flat-square&logoColor=white)
+<br>
 
 ---
 
